@@ -1,0 +1,26 @@
+﻿  campfire.cpp
+  data_parser.cpp
+  main.cpp
+E:\pgr\hello-world\Farm\main.cpp(26,17): warning C4244: инициализация: преобразование "int" в "GLfloat", возможна потеря данных
+E:\pgr\hello-world\Farm\main.cpp(27,17): warning C4244: инициализация: преобразование "int" в "GLfloat", возможна потеря данных
+E:\pgr\hello-world\Farm\main.cpp(272,30): warning C4244: аргумент: преобразование "GLfloat" в "int", возможна потеря данных
+E:\pgr\hello-world\Farm\main.cpp(272,21): warning C4244: аргумент: преобразование "GLfloat" в "int", возможна потеря данных
+E:\pgr\hello-world\Farm\main.cpp(289,33): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+E:\pgr\hello-world\Farm\main.cpp(290,34): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+E:\pgr\hello-world\Farm\main.cpp(291,38): warning C4244: аргумент: преобразование "GLfloat" в "int", возможна потеря данных
+E:\pgr\hello-world\Farm\main.cpp(291,29): warning C4244: аргумент: преобразование "GLfloat" в "int", возможна потеря данных
+  ModelContainer.cpp
+  ShaderContainer.cpp
+  render.cpp
+E:\pgr\hello-world\Farm\render.cpp(372,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+E:\pgr\hello-world\Farm\render.cpp(710): warning C4172: возвращение адреса локальной или временной переменной
+  All 779 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+pgr.lib(gl_core_4_4.obj) : warning LNK4099: "pgr-lib.pdb" PDB не найден с "pgr.lib(gl_core_4_4.obj)" или на "E:\pgr\hello-world\Farm\Release\pgr-lib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+pgr.lib(pgr.obj) : warning LNK4099: "pgr-lib.pdb" PDB не найден с "pgr.lib(pgr.obj)" или на "E:\pgr\hello-world\Farm\Release\pgr-lib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+pgr.lib(Image.obj) : warning LNK4099: "pgr-lib.pdb" PDB не найден с "pgr.lib(Image.obj)" или на "E:\pgr\hello-world\Farm\Release\pgr-lib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+pgr.lib(Shader.obj) : warning LNK4099: "pgr-lib.pdb" PDB не найден с "pgr.lib(Shader.obj)" или на "E:\pgr\hello-world\Farm\Release\pgr-lib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+pgr.lib(gldebug.obj) : warning LNK4099: "pgr-lib.pdb" PDB не найден с "pgr.lib(gldebug.obj)" или на "E:\pgr\hello-world\Farm\Release\pgr-lib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  hello-world.vcxproj -> E:\pgr\hello-world\Farm\Release\Farm.exe

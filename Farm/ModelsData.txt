@@ -1,0 +1,313 @@
+16
+Resources/Textures/bucket_diffuse.png
+Resources/Textures/campfire_diffuse.png
+Resources/Textures/carrot_diffuse.png
+Resources/Textures/corn_diffuse.png
+Resources/Textures/duck_diffuse.png
+Resources/Textures/wood_diffuse.png
+Resources/Textures/house_diffuse.png
+Resources/Textures/pitchfork_diffuse.png
+Resources/Textures/pumpkin_diffuse.png
+Resources/Textures/straw_diffuse.png
+Resources/Textures/tractor_diffuse.png
+Resources/Textures/trailer_diffuse.png
+Resources/Textures/trough_diffuse.png
+Resources/Textures/ufo_diffuse.png
+Resources/Textures/windmill_diffuse.png
+Resources/Textures/terrain_diffuse.png
+9
+Resources/Textures/bucket_specular.png
+Resources/Textures/house_specular.png
+Resources/Textures/no_specular.png
+Resources/Textures/pitchfork_specular.png
+Resources/Textures/tractor_specular.png
+Resources/Textures/trailer_specular.png
+Resources/Textures/trough_specular.png
+Resources/Textures/ufo_specular.png
+Resources/Textures/windmill_specular.png
+48
+Resources/Models/bucket.obj
+0
+0
+Resources/Models/campfire.obj
+1
+2
+Resources/Models/carrot.obj
+2
+2
+Resources/Models/corn.obj
+3
+2
+Resources/Models/fence.obj
+5
+2
+Resources/Models/gate.obj
+5
+2
+Resources/Models/house.obj
+6
+1
+Resources/Models/pitchfork.obj
+7
+3
+Resources/Models/pumpkin.obj
+8
+2
+Resources/Models/straw.obj
+9
+2
+Resources/Models/tractor.obj
+10
+4
+Resources/Models/trailer.obj
+11
+5
+Resources/Models/trough.obj
+12
+6
+Resources/Models/ufo.obj
+13
+7
+Resources/Models/windmill.obj
+14
+8
+Resources/Models/terrain.obj
+15
+2
+236
+0
+-4.64 0.0 11.11
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+1
+3.43 0.0 -11.92
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 0.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 0.5
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 1.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 1.5
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 2.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 2.5
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 3.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+2
+-14.68 -0.36 3.5
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-12.23 0.0 -13.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-14.23 0.0 -13.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-12.23 0.0 -10.68
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-14.23 0.0 -10.68
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-12.23 0.0 -8.32
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-14.23 0.0 -8.32
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-12.23 0.0 -5.88
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-14.23 0.0 -5.88
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-12.23 0.0 -3.56
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+3
+-14.23 0.0 -3.56
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+4
+0.0 0.0 0.0
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+5.46 0.0 0.85
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+5.46 0.0 -8.67
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+5.46 0.0 -12.39
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+3.09 0.0 -14.05
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+4
+-0.77 0.0 -14.05
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+4
+-4.6 0.0 -14.05
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+4
+-8.28 0.0 -14.05
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+4
+-10.81 0.0 -12.39
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+-10.81 0.0 -8.6
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+-10.81 0.0 -4.64
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+-10.81 0.0 -0.77
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+-10.81 0.0 3.21
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+-10.81 0.0 7.0
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+4
+-5.76 0.0 6.95
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+4
+-9.17 0.0 7.87
+0.0 1.0 0.0 160.0
+1.0 1.0 1.0
+5
+5.46 0.0 -3.83
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+6
+0.0 0.0 7.0
+0.0 1.0 0.0 -90.0
+1.0 1.0 1.0
+7
+-6.27 1.65 12.27
+1.0 0.0 0.0 180.0
+1.0 1.0 1.0
+8
+-13.36 0.0 0.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-13.36 0.0 1.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-13.36 0.0 2.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-13.36 0.0 3.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-13.36 0.0 4.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-13.36 0.0 5.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-13.36 0.0 6.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-9.5 1.0 11.8
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-9.35 1.0 12.64
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-8.77 1.0 12.16
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-8.74 1.0 13.13
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+8
+-8.15 1.0 12.64
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+9
+-5.03 0.0 12.89
+0.0 1.0 0.0 90.0
+1.0 1.0 1.0
+9
+-5.03 1.04 12.89
+0.0 1.0 0.0 75.0
+1.0 1.0 1.0
+10
+6.54 0.0 -3.56
+0.0 1.0 0.0 -45.0
+1.0 1.0 1.0
+11
+-8.94 0.0 12.28
+0.0 1.0 0.0 45.0
+1.0 1.0 1.0
+12
+-4.48 0.0 -13.0
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+13
+16.6 16.6 34.85
+0.0 1.0 0.0 0.0
+1.0 1.0 1.0
+14
+12.0 0.0 9.5
+0.0 1.0 0.0 -135.0
+1.0 1.0 1.0
+15
+0.0 0.0 0.0
+0.0 1.0 0.0 270.0
+1.0 1.0 1.0
